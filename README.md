@@ -12,7 +12,14 @@ Humaaans.com for React-Native
 import { Standing2 } from 'react-native-humaaans';
 
 const Example = () => (
-  <Standing2 height={200} hairColor="#000000" skinColor="#FDA7DC" />
+  <Standing2
+    height={200}
+    hairColor="#000000"
+    skinColor="#FDA7DC"
+    shoeColor="#0000EE"
+    pantColor="#FF44EA"
+    sweaterColor="#FF0011"
+  />
 );
 ```
 
