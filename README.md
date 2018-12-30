@@ -6,7 +6,7 @@ Humaaans.com for React-Native
 
 `npm install --save humaaans-native`
 
-### How to use
+## Usage
 
 ```javascript
 import { Sitting1, Standing2 } from 'humaaans-native';
@@ -40,7 +40,7 @@ const SittingExample = () => (
 );
 ```
 
-### Components
+## Components
 
 All the components are SVG illustrations.
 
@@ -65,3 +65,16 @@ Available components:
 - [x] Standing8 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-8.svg
 
 - [x] More Humaaans components coming soon...
+
+## Example
+
+See https://github.com/jzarca01/react-native-humaaans-example for an example
+Don't forget to
+
+```shell
+react-native link react-native-svg
+```
+
+## Credits
+
+All graphic illustrations are made by ![Pablo Stanley](https://twitter.com/pablostanley)
