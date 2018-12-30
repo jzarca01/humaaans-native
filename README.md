@@ -77,4 +77,4 @@ react-native link react-native-svg
 
 ## Credits
 
-All graphic illustrations are made by ![Pablo Stanley](https://twitter.com/pablostanley)
+All graphic illustrations are made by [Pablo Stanley](https://twitter.com/pablostanley)
