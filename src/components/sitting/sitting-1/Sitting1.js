@@ -4,6 +4,7 @@ import Svg, { G, Path, Ellipse } from 'react-native-svg';
 
 import Wrapper from '../../common/wrapper/Wrapper';
 import { darken } from '../../utils/colors';
+
 const Sitting1 = ({
   className,
   height,
