@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Svg, { G, Path, Polygon } from 'react-native-svg';
 
-import Wrapper from '../common/wrapper/Wrapper';
+import Wrapper from '../../common/wrapper/Wrapper';
 import { darken } from '../../utils/colors';
 
 const Standing2 = ({
@@ -12,7 +12,7 @@ const Standing2 = ({
   hairColor,
   shoeColor,
   pantColor,
-  sweaterColor
+  coatColor
 }) => (
   <Wrapper className={className}>
     <Svg width={0.8 * height} height={height} viewBox={`0 0 380 480`}>
@@ -78,13 +78,13 @@ const Standing2 = ({
             </G>
             <Polygon
               id="Pant"
-              fill={darken(sweaterColor)}
+              fill={darken(coatColor)}
               points="174.163556 227.802687 238.619157 220.807401 190.849885 2.84217094e-14 133.119435 2.84217094e-14"
             />
             <Path
               d="M45.3241967,165.716602 L87.6032259,215.760447 C132.134816,167.123971 158.09685,135.388661 165.489326,120.554518 C172.881803,105.720376 179.527263,65.5355363 185.425707,0 L120.431644,0 C117.209615,57.6553062 115.037743,87.824451 113.916028,90.5074345 C112.794313,93.1904181 89.9303694,118.260141 45.3241967,165.716602 Z"
               id="Pant"
-              fill={sweaterColor}
+              fill={coatColor}
             />
           </G>
           <G id="Body/Turtle-Neck" transform="translate(22.922792, 85.404334)">
@@ -116,7 +116,7 @@ Standing2.propTypes = {
   skinColor: PropTypes.string,
   hairColor: PropTypes.string,
   shoeColor: PropTypes.string,
-  sweaterColor: PropTypes.string,
+  coatColor: PropTypes.string,
   pantColor: PropTypes.string
 };
 
@@ -125,7 +125,7 @@ Standing2.defaultProps = {
   skinColor: '#57331F',
   hairColor: '#191847',
   shoeColor: '#E4E4E4',
-  sweaterColor: '#89C5CC',
+  coatColor: '#89C5CC',
   pantColor: '#2F3676'
 };
 

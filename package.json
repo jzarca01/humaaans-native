@@ -1,5 +1,5 @@
 {
-  "name": "react-native-humaaans",
+  "name": "humaaans-native",
   "version": "0.2.0",
   "description": "Humaaans.com for React-Native",
   "main": "./src/index.js",

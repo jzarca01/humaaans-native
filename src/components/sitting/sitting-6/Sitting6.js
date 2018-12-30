@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Svg, { G, Path, Polygon, Ellipse } from 'react-native-svg';
 
-import Wrapper from '../common/wrapper/Wrapper';
+import Wrapper from '../../common/wrapper/Wrapper';
 import { darken } from '../../utils/colors';
 
 const Sitting6 = ({
