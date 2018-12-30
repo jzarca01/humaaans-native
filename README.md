@@ -29,5 +29,6 @@ All the components are SVG illustrations.
 
 Available components:
 
-- [x] Standing2 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-2.svg&subfolder_nav_tracking=1
+- [x] Sitting1 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-1.svg
+- [x] Standing2 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-2.svg
 - [x] More Humaaans components coming soon...
