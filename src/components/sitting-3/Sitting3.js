@@ -5,7 +5,7 @@ import Svg, { G, Path, Rect, Circle } from 'react-native-svg';
 import Wrapper from '../common/wrapper/Wrapper';
 import { darken } from '../../utils/colors';
 
-const Sitting2 = ({
+const Sitting3 = ({
   className,
   height,
   skinColor,
