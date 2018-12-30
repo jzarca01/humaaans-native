@@ -107,13 +107,13 @@ const Standing2 = ({ className, height, skinColor, hairColor }) => (
   </Wrapper>
 );
 
-Backpack.propTypes = {
+Standing2.propTypes = {
   height: PropTypes.number,
   skinColor: PropTypes.string,
   hairColor: PropTypes.string
 };
 
-Backpack.defaultProps = {
+Standing2.defaultProps = {
   height: 480,
   skinColor: '#57331F',
   hairColor: '#191847'
