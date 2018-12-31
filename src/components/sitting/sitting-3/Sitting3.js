@@ -199,7 +199,7 @@ Sitting3.propTypes = {
 };
 
 Sitting3.defaultProps = {
-  height: 480,
+  height: 400,
   skinColor: '#57331F',
   hairColor: '#191847',
   shoeColor: '#E4E4E4',

@@ -156,7 +156,7 @@ Sitting5.propTypes = {
 };
 
 Sitting5.defaultProps = {
-  height: 480,
+  height: 400,
   skinColor: '#57331F',
   hairColor: '#191847',
   hatColor: '#2C2C2C',

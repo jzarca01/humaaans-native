@@ -47,7 +47,7 @@ const Standing19 = ({
             id="Bottom/Standing/Baggy-Pants"
             transform="translate(0.000000, 218.435876)"
           >
-            <polygon
+            <Polygon
               id="Leg"
               fill={darken(skinColor)}
               points="145.152001 0 198.318405 134.045997 233.977332 247.370589 248.05827 247.370589 193.543607 5.49273047e-13"
