@@ -12,7 +12,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'lib'),
     filename: 'index.js',
-    library: ['react-kawaii'],
+    library: ['humaaans-native'],
     libraryTarget: 'umd',
     publicPath: '/lib/'
   },

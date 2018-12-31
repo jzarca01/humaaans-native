@@ -2,6 +2,8 @@
 
 Humaaans.com for React-Native
 
+![Humaaans Native Demo](https://github.com/jzarca01/humaaans-native/blob/master/humaaans-native.gif)
+
 ## Install
 
 `npm install --save humaaans-native`
@@ -44,31 +46,48 @@ const SittingExample = () => (
 
 All the components are SVG illustrations.
 
-Available components:
+Available components (visible here : https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&subfolder_nav_tracking=1) :
 
-- [x] Sitting1 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-1.svg
-- [x] Sitting2 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-2.svg
-- [x] Sitting3 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-3.svg
-- [x] Sitting4 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-4.svg
-- [x] Sitting5 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-5.svg
-- [x] Sitting6 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-6.svg
-- [x] Sitting7 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-7.svg
-- [x] Sitting8 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=sitting-8.svg
+- [x] Sitting1
+- [x] Sitting2
+- [x] Sitting3
+- [x] Sitting4
+- [x] Sitting5
+- [x] Sitting6
+- [x] Sitting7
+- [x] Sitting8
 
-- [x] Standing1 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-1.svg
-- [x] Standing2 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-2.svg
-- [x] Standing3 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-3.svg
-- [x] Standing4 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-4.svg
-- [x] Standing5 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-5.svg
-- [x] Standing6 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-6.svg
-- [x] Standing7 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-7.svg
-- [x] Standing8 - https://www.dropbox.com/sh/grfucsjeaxe811s/AACNqTXfYZBrhRLcq29v_gpla/Flat%20Assets/Humaaans?dl=0&preview=standing-8.svg
+- [x] Standing1
+- [x] Standing2
+- [x] Standing3
+- [x] Standing4
+- [x] Standing5
+- [x] Standing6
+- [x] Standing7
+- [x] Standing8
+- [x] Standing9
+- [x] Standing10
+- [x] Standing11
+- [x] Standing12
+- [x] Standing13
+- [x] Standing14
+- [x] Standing15
+- [x] Standing16
+- [x] Standing17
+- [x] Standing18
+- [x] Standing19
+- [x] Standing20
+- [x] Standing21
+- [x] Standing22
+- [x] Standing23
+- [x] Standing24
 
 - [x] More Humaaans components coming soon...
 
 ## Example
 
 See https://github.com/jzarca01/react-native-humaaans-example for an example
+
 Don't forget to
 
 ```shell

@@ -9,4 +9,4 @@ const getUniqueId = () => {
   return id;
 };
 
-export default getUniqueId;
+export { getUniqueId };
